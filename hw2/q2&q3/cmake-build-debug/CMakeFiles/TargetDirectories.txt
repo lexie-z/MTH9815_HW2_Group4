@@ -1,0 +1,3 @@
+/Users/lexie/Desktop/9815/products/cmake-build-debug/CMakeFiles/products.dir
+/Users/lexie/Desktop/9815/products/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lexie/Desktop/9815/products/cmake-build-debug/CMakeFiles/rebuild_cache.dir
